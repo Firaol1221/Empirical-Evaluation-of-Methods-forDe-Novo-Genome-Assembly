@@ -1,0 +1,21 @@
+//config_file.congif
+#maximal read length
+max_rd_len=151
+[LIB]
+#average insert size of the library
+avg_ins=500
+#if sequences are forward-reverse of reverse-forward
+reverse_seq=0
+#in which part(s) the reads are used (only contigs, only scaffolds, both contigs and scaffolds, only gap closure)
+asm_flags=3
+#cut the reads to the given length
+rd_len_cutoff=100
+#in which order the reads are used while scaffolding
+rank=1
+# cutoff of pair number for a reliable connection (at least 3 for short insert size)
+pair_num_cutoff=3
+#minimum aligned length to contigs for a reliable read location (at least 32 for short insert size)
+map_len=32
+#paired-end fastq files, read 1 file should always be followed by read 2 file
+q1=<dataset-directory>.fastq
+q2=<dataset-directory>.fastq
