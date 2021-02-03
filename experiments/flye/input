@@ -1,0 +1,1 @@
+time flye --pacbio-raw <dataset-directory>.fastq --out-dir <output-directory> --threads 16

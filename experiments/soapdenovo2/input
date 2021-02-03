@@ -1,0 +1,1 @@
+SOAPdenovo-63mer (or 127mer) all -s config_file -K <21 | 33 | 55 | 77 | 99> -R -o graph_prefix

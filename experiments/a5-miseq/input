@@ -1,0 +1,1 @@
+a5_pipeline.pl --threads=16 <dataset-directory>read1.fastq <dataset-directory>read2.fastq <output-directory>

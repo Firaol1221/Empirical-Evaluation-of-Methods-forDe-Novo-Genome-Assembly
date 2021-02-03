@@ -1,0 +1,1 @@
+time spades.py -t 16 --pe1-1 <dataset-directory>.fastq --pe1-2 <dataset-directory>.fastq -o <output-directory>
