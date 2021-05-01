@@ -17,12 +17,6 @@ Please, follow the instructions in the corresponding repositories for installati
 
 ## Datasets
 This experiment uses the following datas:
-- Arabidopsis thaliana: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=ERR4589228
-- Bacillus cereus: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR13386521
-- Caenorhabditis elegans: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR2183182
-- Staphylococcus aureus: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR13481036
-- Saccharomyces cerevisiae: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR12596359
-- Escherichia coli: https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR13582026
 
 |          Dataset          | Read type  | Technology  | Accession number  |      Refseq      | # of bases  | Coverage  |
 |:-------------------------:|:----------:|:-----------:|:-----------------:|:----------------:|:-----------:|:---------:|
